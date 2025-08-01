@@ -1,8 +1,8 @@
 # PA1-Coupon-Analysis
 This study uses visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those who did not. 
 [Link to prompt](https://github.com/MeghanHan/PA1-Coupon-Analysis/blob/main/prompt.ipynb)
-[Link to data] 
-[Link to images]
+[Link to data]( 
+[Link to images](https://github.com/MeghanHan/PA1-Coupon-Analysis/tree/main/images)
 
 ## Data
 The data is from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk. 
