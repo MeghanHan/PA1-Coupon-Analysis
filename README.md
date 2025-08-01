@@ -1,7 +1,7 @@
 # PA1-Coupon-Analysis
 This study uses visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those who did not. 
 [Link to prompt](https://github.com/MeghanHan/PA1-Coupon-Analysis/blob/main/prompt.ipynb)
-[Link to data]( 
+[Link to data](https://github.com/MeghanHan/PA1-Coupon-Analysis/blob/main/coupons.csv) 
 [Link to images](https://github.com/MeghanHan/PA1-Coupon-Analysis/tree/main/images)
 
 ## Data
